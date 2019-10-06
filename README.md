@@ -5,4 +5,4 @@ This project uses [Leaflet](https://github.com/Leaflet/Leaflet), [Leaflet.Draw](
 
 Demo: [Example](http://online.indotechsolution.co.id/webmap/leaflet-CRUD/)
 
-![Screenshot](./screenshot/screenshot.jpg)
+![Screenshot](./archives/screenshot.jpg)
