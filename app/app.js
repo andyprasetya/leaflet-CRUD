@@ -2,6 +2,9 @@ $(document).ready(function(){
   _attachTopNavMenu();
   _displayMapRead('app');
 });
+/* 
+ * Fungsi untuk menampilkan ... 
+ * */
 function _attachTopNavMenu () {
   var adjacentTopNavMenuDOM = "" +
     "<nav class='navbar navbar-expand-md navbar-dark fixed-top bg-dark'>" +
